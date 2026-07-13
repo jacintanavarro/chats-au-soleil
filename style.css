@@ -189,6 +189,12 @@ p { margin: 0; }
   margin-bottom: 18px;
 }
 
+.hero-title-year {
+  display: inline-block;
+  font-size: 0.5em;
+  margin-top: 0.2em;
+}
+
 .hero-subtitle {
   font-family: 'Inter', sans-serif;
   font-style: italic;

@@ -1,7 +1,16 @@
 const ornaments = {
   cat: `<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-width="1">
-    <path d="M10 40 C8 34 8 28 10 24 C7 22 6 18 7 14 C9 16 11 17 13 17 C15 13 19 11 23 11 C24 9 26 8 28 9 C27 10 27 11 27 12 C32 13 35 17 36 22 C38 23 39 25 38 27 C37 26 36 25 35 25 C36 30 34 35 30 38 C31 39 31 40 30 41 C28 40 27 39 27 38 C24 39 20 39 17 38 C16 39 14 40 12 39 C13 38 13 37 13 36 C11 38 10 39 10 40 Z" stroke-linecap="round" stroke-linejoin="round"/>
-    <circle cx="30" cy="18" r="0.7" fill="currentColor" stroke="none"/>
+    <path d="M9 19 Q8 10 15 8 Q17 13 21 15 Q24 15 27 15 Q31 13 33 8 Q40 10 39 19 Q42 24 39 29 Q40 34 35 37 Q30 40 24 39 Q18 40 13 37 Q8 34 9 29 Q6 24 9 19 Z" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="17.5" cy="24.5" r="4" stroke-linecap="round"/>
+    <circle cx="30.5" cy="24.5" r="4" stroke-linecap="round"/>
+    <path d="M21.5 24 C22.8 23 25.2 23 26.5 24" stroke-linecap="round"/>
+    <path d="M13.5 23.5 C11 22.5 9.5 22 8 22.5" stroke-linecap="round"/>
+    <path d="M34.5 23.5 C37 22.5 38.5 22 40 22.5" stroke-linecap="round"/>
+    <path d="M22.5 30 L25.5 30 L24 32.5 Z" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M13 30 L8 29" stroke-linecap="round"/>
+    <path d="M13.5 32.5 L8.5 33.5" stroke-linecap="round"/>
+    <path d="M35 30 L40 29" stroke-linecap="round"/>
+    <path d="M34.5 32.5 L39.5 33.5" stroke-linecap="round"/>
   </svg>`,
 
   sun: `<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" stroke="currentColor" stroke-width="1">
