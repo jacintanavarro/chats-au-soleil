@@ -154,6 +154,7 @@
     const catImg = '<img src="cat-mark.png" alt="Chats au Soleil" class="cat-mark-img">';
     document.getElementById('sidebarCat').innerHTML = catImg;
     document.getElementById('footerCat').innerHTML = catImg;
+    document.getElementById('mobileCat').innerHTML = catImg;
     document.getElementById('heroSun').innerHTML = ornaments.sun;
   }
 
