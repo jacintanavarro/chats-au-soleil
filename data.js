@@ -169,6 +169,36 @@ const destinations = [
         rating: "4.8",
         status: "available",
         statusLabel: "Disponible"
+      },
+      {
+        name: "Bonita casa de 3 dormitorios — Zona de Beaurivage",
+        location: "Bibi Beaurivage, Biarritz",
+        image: "https://a0.muscache.com/im/pictures/miso/Hosting-620624723275013780/original/7d2146eb-648e-44c1-b5ea-ecb83cf06770.jpeg?im_w=720",
+        url: "https://www.airbnb.es/rooms/620624723275013780?adults=6&check_in=2026-08-08&check_out=2026-08-16",
+        dates: "8–16 agosto 2026 (8 noches)",
+        capacity: "3 habitaciones, 2 baños · hasta 6 huéspedes (capacidad exacta)",
+        description: "Casa adosada renovada y decorada con buen gusto en el barrio de Bibi Beaurivage, a 10 minutos a pie de la playa de la Côte des Basques. Salón con cocina abierta a la terraza, suite principal en planta baja. Valorada 4.67/5 en 12 reseñas.",
+        priceTotal: "5.297 €",
+        pricePerNight: "662 €/noche antes de tasas",
+        pricePerPerson: "883 €/persona",
+        rating: "4.67",
+        status: "available",
+        statusLabel: "Disponible"
+      },
+      {
+        name: "Apartamento céntrico con terraza y piscina",
+        location: "Centro de Biarritz",
+        image: "https://a0.muscache.com/im/pictures/miso/Hosting-7392005/original/d619a170-0f31-42e1-9f8c-2a27e8b4869e.jpeg?im_w=720",
+        url: "https://www.airbnb.es/rooms/7392005?adults=6&check_in=2026-08-08&check_out=2026-08-16",
+        dates: "8–16 agosto 2026 (8 noches)",
+        capacity: "3 habitaciones, 1 baño · hasta 6 huéspedes (capacidad exacta)",
+        description: "Apartamento moderno a 2 minutos a pie del centro de Biarritz, con terraza de 20 m² con jacuzzi y barbacoa, chimenea y piscina descubierta privada climatizada. Mesa de billar y ping-pong. Valorado 4.56/5 en 18 reseñas.",
+        priceTotal: "4.153 €",
+        pricePerNight: "519 €/noche antes de tasas",
+        pricePerPerson: "692 €/persona",
+        rating: "4.56",
+        status: "available",
+        statusLabel: "Disponible"
       }
     ]
   },
